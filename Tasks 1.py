@@ -7,6 +7,7 @@
     # N : Exit
 
 Class Game:
+    def __init__(self):
    
-    
+
    
