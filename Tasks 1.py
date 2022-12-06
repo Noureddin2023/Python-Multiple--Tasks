@@ -13,5 +13,7 @@ Class Game:
     def Game1(self):
 
 
-        
+    def Game 2(self):
+
+
     
