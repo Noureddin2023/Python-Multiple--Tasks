@@ -15,6 +15,8 @@ Welcome To our Game:
        1 : Multiplication Table Game
        2 : Remove Duplicates Game
        3 : Divided Numbers Game
+       4 : To Exit
+       ''')
    
     def Game1(self):
 
