@@ -12,6 +12,8 @@ Class Game:
     def __init__(self):
         print('''
 Welcome To our Game:
+       1 : Multiplication Table Game
+       
    
    
     def Game1(self):
