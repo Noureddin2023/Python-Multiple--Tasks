@@ -13,7 +13,7 @@ Class Game:
         print('''
 Welcome To our Game:
        1 : Multiplication Table Game
-       
+       2 : Remove Duplicates Game
    
    
     def Game1(self):
