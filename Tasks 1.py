@@ -9,5 +9,9 @@
 Class Game:
     def __init__(self):
    
-
    
+    def Game1(self):
+
+
+        
+    
