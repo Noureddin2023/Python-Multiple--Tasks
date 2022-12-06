@@ -16,4 +16,6 @@ Class Game:
     def Game 2(self):
 
 
+G1 = Game()
+        
     
