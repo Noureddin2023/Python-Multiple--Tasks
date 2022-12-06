@@ -6,8 +6,12 @@
     # Y : Play again
     # N : Exit
 
+
+
 Class Game:
     def __init__(self):
+        print('''
+Welcome To our Game:
    
    
     def Game1(self):
