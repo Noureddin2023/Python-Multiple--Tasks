@@ -8,7 +8,7 @@
 
 
 
-Class Game:
+class Game:
     def __init__(self):
         print('''
 Welcome To our Game:
@@ -21,7 +21,7 @@ Welcome To our Game:
     def Game1(self):
 
 
-    def Game 2(self):
+    def Game2(self):
 
 
 G1 = Game()
