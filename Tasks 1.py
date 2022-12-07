@@ -27,6 +27,10 @@ class Game:
             elif user_choice == 4:
               print('Godbay')
                 return
-        
+            elif user_choice == 1:
+                self.game1()
+
+            
+          
             
        
