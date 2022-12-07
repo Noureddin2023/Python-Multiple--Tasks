@@ -45,6 +45,9 @@ class Game:
         Start = int(input('Enter Start Number : '))
         End = int(input('Enter End Number : '))
         for x in range(Start,End+1):
+             for y in range(1,13):
+                  
+                  
             
     
     def game2(self):
