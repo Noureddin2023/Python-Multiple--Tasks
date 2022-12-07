@@ -52,7 +52,7 @@ class Game:
     def game3(self):
         print ('Game 3')
 
- 
+G1 = Game() 
               
   
                 
