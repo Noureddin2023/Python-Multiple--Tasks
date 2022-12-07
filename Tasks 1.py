@@ -36,6 +36,14 @@ class Game:
             elif user_choice == 3:
                 self.game3()
                 
+            play_again == input('Press Y to Play again, N to Exit')
+            if play_again == 'n':
+                print('Goodbye')
+                break
+            
+    
+            
+                
            
           
             
