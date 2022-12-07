@@ -44,7 +44,10 @@ class Game:
     def game1(self):
         print('Game 1')
 
-
+    
+    def game2(self):
+        print ('Game 2')
+  
                 
            
           
