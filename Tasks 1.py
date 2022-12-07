@@ -32,7 +32,10 @@ class Game:
                 
             elif user_choice == 2:
                 self.game2()
-
+                
+            elif user_choice == 3:
+                self.game3()
+                
            
           
             
