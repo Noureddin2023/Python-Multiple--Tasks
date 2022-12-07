@@ -43,7 +43,7 @@ class Game:
             
     def game1(self):
         Start = int(input('Enter Start Number : ')
-        
+        End = int(input('Enter End Number : ')
     
     def game2(self):
         print ('Game 2')
