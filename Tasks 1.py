@@ -24,5 +24,6 @@ class Game:
             if user_choice > 4:
              print('Please Enter Number between 1:4')
          
-            
+            elif user_choice == 4:
+               
        
