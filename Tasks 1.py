@@ -29,8 +29,11 @@ class Game:
                 return
             elif user_choice == 1:
                 self.game1()
+                
+            elif user_choice == 2:
+                self.game2()
 
-            
+           
           
             
        
