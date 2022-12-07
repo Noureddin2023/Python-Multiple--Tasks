@@ -26,7 +26,7 @@ class Game:
          
             elif user_choice == 4:
               print('Godbay')
-                return
+              return
             elif user_choice == 1:
                 self.game1()
                 
@@ -42,8 +42,8 @@ class Game:
                 break
             
     def game1(self):
-        print('Game 1')
-
+        Start = int(input('Enter Start Number : ')
+        
     
     def game2(self):
         print ('Game 2')
