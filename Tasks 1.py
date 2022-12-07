@@ -41,8 +41,10 @@ class Game:
                 print('Goodbye')
                 break
             
-    
-            
+    def game1(self):
+        print('Game 1')
+
+
                 
            
           
