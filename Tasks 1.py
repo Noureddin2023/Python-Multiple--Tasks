@@ -47,6 +47,13 @@ class Game:
     
     def game2(self):
         print ('Game 2')
+
+    
+    def game3(self):
+        print ('Game 3')
+
+ 
+              
   
                 
            
