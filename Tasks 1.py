@@ -59,7 +59,7 @@ class Game:
         End = int(input('Enter End Number : '))
         for x in range(Start,End+1):
              for y in range(1,13):
-              print(f'{x}X{y}={x%y}')
+              print(f'{x}/{y}={x%y}')
 
 G1 = Game() 
               
