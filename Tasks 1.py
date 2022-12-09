@@ -55,7 +55,7 @@ class Game:
 
     
     def game3(self):
-        print ('Game 3')
+        Start = int(input('Enter Start Number : '))
 
 G1 = Game() 
               
