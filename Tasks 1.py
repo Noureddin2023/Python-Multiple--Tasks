@@ -61,7 +61,7 @@ class Game:
              for y in range(1,13):
               print(f'{x}/{y}={x%y}')
 
-G1 = Game() 
+G1 =Game() 
               
   
                 
