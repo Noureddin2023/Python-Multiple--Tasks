@@ -53,6 +53,9 @@ class Game:
     def game2(self):
         Start = int(input('Enter Start Number : '))
         End = int(input('Enter End Number : '))
+
+
+
     
     def game3(self):
         Start = int(input('Enter Start Number : '))
@@ -61,7 +64,7 @@ class Game:
              for y in range(1,13):
               print(f'{x}/{y}={x%y}')
 
-G1 =Game() 
+G1 =Game()
               
   
                 
